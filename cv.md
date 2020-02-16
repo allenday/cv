@@ -61,14 +61,14 @@ Email: [allenday@allenday.com](mailto:allenday@allenday.com) ; Phone: +1-310-804
 - [Building hybrid blockchain/cloud applications with Ethereum and Google Cloud](https://cloud.google.com/blog/products/data-analytics/building-hybrid-blockchain-cloud-applications-with-ethereum-and-google-cloud). **Day A**. *Google Cloud Blog*. 2019
 - [Navigating Bitcoin, Ethereum, XRP: How Google Is Quietly Making Blockchains Searchable](https://www.forbes.com/sites/michaeldelcastillo/2019/02/04/navigating-bitcoin-ethereum-xrp-how-google-is-quietly-making-blockchains-searchable/#33054b524248). Del Castillo M. *Forbes*. 2019 Jan.
 - [Introducing six new cryptocurrencies in BigQuery Public Datasets—and how to analyze them](https://cloud.google.com/blog/products/data-analytics/introducing-six-new-cryptocurrencies-in-bigquery-public-datasets-and-how-to-analyze-them). **Day A**, Medvedev E, Nirmal AK, Price W. *Google Cloud Blog*. 2019.
-- [Ethereum in BigQuery: a Public Dataset for smart contract analytics](https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics). **Day A**, Medvedev E. **Google Cloud Blog**. 2018.
+- [Ethereum in BigQuery: a Public Dataset for smart contract analytics](https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics). **Day A**, Medvedev E. *Google Cloud Blog*. 2018.
 - [Bitcoin in BigQuery: blockchain analytics on public data](https://cloud.google.com/blog/products/gcp/bitcoin-in-bigquery-blockchain-analytics-on-public-data). **Day A**, Bookman C. *Google Cloud Blog*. 2018.
 
 ### Distributed Systems in Biotech
 
   I worked with a team of scientists developed a system for the decentralized exchange of [computational genomic](https://en.wikipedia.org/wiki/Computational_genomics) assets. This work augured my future fintech contributions ([DLT](https://en.wikipedia.org/wiki/Distributed_ledger), Cryptocurrency) during my tenure at Google, Singapore.
 
-- [Real-time diagnostics from nanopore DNA sequencers on Google Cloud](https://cloud.google.com/blog/products/data-analytics/real-time-diagnostics-from-nanopore-dna-sequencers-on-google-cloud). **Day A**, Coin L, Bushkovskyi O. **Google Cloud Blog**. 2019.
+- [Real-time diagnostics from nanopore DNA sequencers on Google Cloud](https://cloud.google.com/blog/products/data-analytics/real-time-diagnostics-from-nanopore-dna-sequencers-on-google-cloud). **Day A**, Coin L, Bushkovskyi O. *Google Cloud Blog*. 2019.
 - [The distributed annotation system](https://www.ncbi.nlm.nih.gov/pubmed/11667947). Dowell RD, Jokerst RM, **Day A**, Eddy SR, Stein L. *BMC Bioinformatics*. 2001;2:7. Epub 2001 Oct 10.
 - [The generic genome browser: a building block for a model organism system database](https://www.ncbi.nlm.nih.gov/pubmed/12368253). Stein LD, Mungall C, Shu S, Caudy M, Mangone M, **Day A**, Nickerson E, Stajich JE, Harris TW, Arva A, Lewis S. *Genome Res*. 2002 Oct;12(10):1599-610.
 
