@@ -52,15 +52,19 @@ Email: [allenday@allenday.com](mailto:allenday@allenday.com) ; Phone: +1-310-804
 *2000, University of Oregon, Eugene, USA*
 - Worked as a laboratory research assistant and computer programmer for all years of attendance. Fields of research included: cognitive psychology, genomics, neuroscience.
 
-## Publications and Media Coverage
+## Publications and Media
 
 ### Data Science in Fintech
 
   I did this... TODO
 
-- [Building hybrid blockchain/cloud applications with Ethereum and Google Cloud](https://cloud.google.com/blog/products/data-analytics/building-hybrid-blockchain-cloud-applications-with-ethereum-and-google-cloud). **Day A**. *Google Cloud Blog*. 2019
-- [Navigating Bitcoin, Ethereum, XRP: How Google Is Quietly Making Blockchains Searchable](https://www.forbes.com/sites/michaeldelcastillo/2019/02/04/navigating-bitcoin-ethereum-xrp-how-google-is-quietly-making-blockchains-searchable/#33054b524248). Del Castillo M. *Forbes*. 2019 Jan.
+- MEDIA: [Google Partnership With Hedera Hashgraph Can Generate $1.9B by 2024](https://cointelegraph.com/news/google-partnership-with-hedera-hashgraph-can-generate-19b-by-2024). *Coin Telegraph*. 2020.
+- [Building hybrid blockchain/cloud applications with Ethereum and Google Cloud](https://cloud.google.com/blog/products/data-analytics/building-hybrid-blockchain-cloud-applications-with-ethereum-and-google-cloud). **Day A**. *Google Cloud Blog*. 2019.
+- MEDIA: [Blockchain with Allen Day](https://www.gcppodcast.com/post/episode-186-blockchain-with-allen-day/). *Google Cloud Podcast*. 2019.
+- MEDIA: [Navigating Bitcoin, Ethereum, XRP: How Google Is Quietly Making Blockchains Searchable](https://www.forbes.com/sites/michaeldelcastillo/2019/02/04/navigating-bitcoin-ethereum-xrp-how-google-is-quietly-making-blockchains-searchable/#33054b524248). 2019.
 - [Introducing six new cryptocurrencies in BigQuery Public Datasets—and how to analyze them](https://cloud.google.com/blog/products/data-analytics/introducing-six-new-cryptocurrencies-in-bigquery-public-datasets-and-how-to-analyze-them). **Day A**, Medvedev E, Nirmal AK, Price W. *Google Cloud Blog*. 2019.
+- MEDIA: [Google’s Mission to Provide Open Datasets for Public Blockchains](https://epicenter.tv/episodes/254/). *Epicenter TV*. 2018.
+
 - [Ethereum in BigQuery: a Public Dataset for smart contract analytics](https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics). **Day A**, Medvedev E. *Google Cloud Blog*. 2018.
 - [Bitcoin in BigQuery: blockchain analytics on public data](https://cloud.google.com/blog/products/gcp/bitcoin-in-bigquery-blockchain-analytics-on-public-data). **Day A**, Bookman C. *Google Cloud Blog*. 2018.
 
