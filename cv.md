@@ -66,7 +66,7 @@ Email: [allenday@allenday.com](mailto:allenday@allenday.com)
   years of attendance. Fields of research included: cognitive psychology,
   genomics, neuroscience.
 
-## Publications and Media
+## Select Publications and Media
 
 ### Data Science in Fintech
 
