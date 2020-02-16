@@ -1,8 +1,6 @@
 # Allen Day, Ph.D.
 
-## Contact
-
-Email: [allenday@allenday.com](mailto:allenday@allenday.com)
+[allenday@allenday.com](mailto:allenday@allenday.com)
 
 ## Work Experience:
 
